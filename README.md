@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="900">
 
 <h1 align="center">Hi 👋, I'm Jaden</h1> 
 <h3 align="start"></h3>
 
 # 💫 About Me:
 
-<img align="right" alt="procoder" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400"/>
+<img align="right" alt="procoder" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="400"/>
 
 - 🔭 I'm a <b> Embedded Systems Developer</b> 
 - 🌱 Pursuing <b>BCA in AIML 2nd Year</b>
