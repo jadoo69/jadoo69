@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="procoder" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="400"/>
+<img align="right" alt="procoder" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300"/>
 
 - 🔭 I'm a <b> Embedded Systems Developer</b> 
 - 🌱 Pursuing <b>BCA in AIML 2nd Year</b>
