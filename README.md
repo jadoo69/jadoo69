@@ -1,22 +1,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
-<h1 align="center">Hi 👋, I'm Deven</h1> 
+<h1 align="center">Hi 👋, I'm Jaden</h1> 
 <h3 align="start"></h3>
 
 # 💫 About Me:
 
 <img align="right" alt="procoder" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400"/>
 
-- 🔭 I'm a <b> MERN Stack & AI-ML Developer</b> 
-- 🌱 Pursuing <b>BCA 2nd Year</b>
-- 👯 Looking forward to collaborate on Full Stack & AI-ML projects
-- 💬 Ask me about **Web Development, AI-ML, Quantum Computing, Research**
-- 📫 How to reach me **deven.collab@gmail.com**
+- 🔭 I'm a <b> Embedded Systems Developer</b> 
+- 🌱 Pursuing <b>BCA in AIML 2nd Year</b>
+- 👯 Looking forward to collaborate on Arduino & Hardware based projects
+- 💬 Ask me about **Arduino uno, AI-ML, Embedded Systems, Research**
+- 📫 How to reach me **jadenpereira20@gmail.com**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deven-mane-73564b321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jaden-pereira)
 
 ## 💻 Tech Stack:
 
@@ -35,9 +35,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Deven-Mane1018&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
-### ✍️ Random Dev Quote
-
-[![.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Deven-Mane1018/Deven-Mane1018)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
