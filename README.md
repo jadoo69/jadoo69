@@ -37,9 +37,8 @@
 
 
 # 📊 GitHub Stats:
-![]![jadoo69's Stats](https://github-readme-stats.vercel.app/api?username=jadoo69&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
-![]![jadoo69's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jadoo69&theme=vue-dark&hide_border=true)<br/>
-![]![jadoo69's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadoo69&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![jadoo69's Stats](https://github-readme-stats.vercel.app/api?username=jadoo69&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![jadoo69's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadoo69&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
